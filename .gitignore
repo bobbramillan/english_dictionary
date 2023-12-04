@@ -1,0 +1,15 @@
+*.sh
+.idea
+*.pyc
+_playground
+_sandbox
+*.txt
+*.zip
+*.pyi
+*.bat
+*.gz
+*.json
+*.csv
+*.log
+build
+dist
